@@ -1,1 +1,2 @@
 # Landing-Page
+This project demonstrates my ability to create a web page using flexbox among other resources. I will be creating a web page from scratch and it'll be as close a replica aas possible to an image provided.
