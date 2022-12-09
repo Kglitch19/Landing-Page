@@ -2,6 +2,8 @@ body {
     background-color: #1F2937;
     font-family: roboto;
     margin: 0;
+    display: flex;
+    flex-direction: column;
 }
 
 header {
@@ -131,4 +133,44 @@ header {
     text-align: right;
     font-size: 24px;
     font-weight: bold;
+}
+
+.section-4 {
+    background-color: #F9FAF8;
+    padding: 150px;
+}
+
+.action-button {
+    background-color: #3882F6;
+    border-radius: 8px;
+    padding: 55px 110px 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.action {
+    color: #F9FAF8;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.action-text {
+    color: #E5E7EB;
+}
+
+.button-2 {
+    border: 2px solid #F9FAF8;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 8px 35px;
+    border-radius: 8px;
+    font-weight: bolder;
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.footer {
+    color: #F9FAF8;
+    margin: 35px auto;
+    font-size: 19px;
 }
